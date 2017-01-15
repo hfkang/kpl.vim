@@ -4,7 +4,6 @@
 " Last Change:	2007 Apr 17
 " Remark:	    A Kernel Programming Language used by the BLITZ tools.
 
-
 if version < 600
       syntax clear
 elseif exists("b:current_syntax")
